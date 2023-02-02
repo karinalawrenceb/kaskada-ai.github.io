@@ -40,16 +40,19 @@ Combine results defined at different times as continuous values.
 
 ====
 *Unified queries.*
+
 Execute the same query in batch mode over historical data or in incremental mode over real-time streams.
 ====
 
 ====
 *It's fast.*
+
 Compute engine implemented in Rust for performance and safety.
 Computation is built on Apache Arrow for speedy CPU utilization.
 ====
 
 ====
 *Real-time with history.*
+
 Transparently bootstrap real-time queries with the full history of raw events.
 ====
